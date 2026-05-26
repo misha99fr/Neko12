@@ -1,8 +1,9 @@
-# Neko11
-Neko11 - is a game about cat collecting
+# Neko12
+Neko12 - is a game about cat collecting
 
 ## Description 🎀
-Neko11 - is a game that will allow you to collect cats. There is a similar game on Android 7, but my version uses mechanics from the Android 11 version and has some changes, including support for both older Android versions and newer ones, Material You support and other features.
+Neko12 - is a game that will allow you to collect cats. There is a similar game on Android 7, but my version uses mechanics from the Android 11 version and has some changes, including support for both older Android versions and newer ones, Material You support and other features.
+Warning! This Project is totally EOL
 
 ## Screenshots 📸
  ![](/screenshots/Screenshot_20230420_154547.jpg?raw=true)
@@ -13,7 +14,7 @@ Neko11 - is a game that will allow you to collect cats. There is a similar game 
 More screenshots in /screenshots folder 📷
 
 
-## Features / Why Neko11 better than original game? 🚽
+## Features / Why Neko12 better than original game? 🚽
  • You can customize Neko11 for yourself
  
 ° 8 color themes 
@@ -33,10 +34,10 @@ More screenshots in /screenshots folder 📷
  • Sync with Device controls (Android 11+)
 
 
-///AND OTHER 37180 COOL FEATURES 
+///AND OTHER COOL FEATURES 
 
 ## Downloads 📲
- Download latest release: https://github.com/queuejw/Neko11/releases
+ Download latest release: -
  
 
 ## Community 🤗😄🤭☹️
