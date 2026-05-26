@@ -6,8 +6,8 @@ Neko12 - is a game that will allow you to collect cats. There is a similar game 
 
 ## 
 >[!WARNING]
-> iiii
-Warning! This Project is totally EOL, because im lazy<br>
+> Warning!
+ This Project is totally EOL, because im lazy<br>
 
 ## Screenshots 📸
  ![](/screenshots/Screenshot_20230420_154547.jpg?raw=true)
